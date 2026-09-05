@@ -1,0 +1,201 @@
+Ticket_ID,Employee_ID,Category,Priority,Issue_Type,Created_Date,Resolved_Date,Status,Assigned_To,Resolution_Time_Hours
+1,57,Email,Low,Email delivery failure,2025-01-31 20:50:17,2025-02-01 19:20:17,Resolved,7,22.5
+2,43,Email,Medium,Spam issue,2025-07-22 13:01:29,,In Progress,12,
+3,21,Software,Low,License issue,2026-06-06 17:12:47,2026-06-12 17:42:47,Resolved,8,144.5
+4,21,Hardware,Low,Disk failure,2026-03-14 06:57:43,,Reopened,2,
+5,35,Software,Medium,License issue,2025-09-29 01:59:46,2025-09-30 09:35:46,Closed,15,31.6
+6,16,Network,Low,WiFi issue,2026-02-26 22:19:00,2026-02-28 18:07:00,Closed,10,43.8
+7,52,Security,Medium,Antivirus alert,2025-08-21 12:49:27,2025-08-21 16:55:27,Closed,2,4.1
+8,57,Software,Low,Application crash,2026-07-31 15:39:00,2026-07-31 23:45:00,Resolved,5,8.1
+9,19,Email,Low,Spam issue,2025-06-08 03:19:44,2025-06-08 06:13:44,Resolved,14,2.9
+10,17,Email,Medium,Email not syncing,2025-03-13 16:34:05,2025-03-15 16:52:05,Resolved,14,48.3
+11,18,Hardware,Low,Printer issue,2026-05-10 20:39:14,,Reopened,3,
+12,48,Access Request,Medium,Permission change,2026-03-12 16:03:42,,Open,2,
+13,57,Security,Critical,Antivirus alert,2025-01-28 23:36:47,2025-01-29 03:18:47,Closed,10,3.7
+14,36,Software,Medium,Application crash,2025-08-28 10:21:07,2025-08-29 15:57:07,Resolved,15,29.6
+15,51,Hardware,High,Printer issue,2026-06-14 18:38:40,,In Progress,2,
+16,23,Email,High,Outlook crash,2026-04-28 01:58:08,2026-04-28 02:58:08,Closed,15,1
+17,60,Software,High,License issue,2025-11-17 05:43:29,,Open,12,
+18,60,Network,High,WiFi issue,2026-06-05 07:58:26,2026-06-07 01:58:26,Closed,13,42.0
+19,16,Network,Low,No internet access,2025-10-25 03:05:40,2025-10-28 16:47:40,Closed,14,85.7
+20,31,Software,Low,Update failure,2025-09-29 14:06:19,2025-09-30 01:36:19,Resolved,13,11.5
+21,56,Software,Low,License issue,2025-11-06 11:56:39,2025-11-06 21:32:39,Resolved,14,9.6
+22,5,Network,Medium,LAN port down,2025-11-07 10:32:42,2025-11-07 15:26:42,Resolved,14,4.9
+23,35,Network,Critical,No internet access,2025-07-22 21:24:15,,In Progress,5,
+24,3,Hardware,Medium,Monitor not working,2026-07-20 21:03:51,2026-07-21 05:45:51,Closed,7,8.7
+25,39,Email,Low,Email delivery failure,2025-05-28 15:19:30,2025-05-30 03:01:30,Resolved,12,35.7
+26,28,Hardware,Medium,Disk failure,2026-06-18 11:56:42,2026-06-19 01:32:42,Closed,12,13.6
+27,48,Security,Low,Data breach report,2025-02-24 08:24:22,2025-02-25 00:54:22,Closed,15,16.5
+28,22,Email,Low,Email not syncing,2026-07-14 01:11:30,2026-07-15 22:35:30,Closed,9,45.4
+29,20,Security,Medium,Data breach report,2026-06-26 12:54:24,2026-06-26 16:30:24,Resolved,3,3.6
+30,13,Access Request,Medium,Permission change,2026-06-11 02:07:17,2026-06-11 10:25:17,Closed,3,8.3
+31,40,Email,Low,Email delivery failure,2025-01-01 07:34:02,2025-01-02 05:28:02,Resolved,4,21.9
+32,28,Email,Medium,Spam issue,2025-12-28 04:00:29,2025-12-28 18:36:29,Resolved,11,14.6
+33,14,Email,Medium,Mailbox full,2026-05-27 17:52:05,,Open,9,
+34,43,Security,Medium,Phishing report,2026-08-07 10:13:47,,In Progress,5,
+35,15,Software,Low,Application crash,2025-07-10 04:11:44,,Reopened,10,
+36,55,Hardware,Medium,Disk failure,2025-06-01 00:32:07,2025-06-02 13:26:07,Closed,7,36.9
+37,32,Access Request,Low,New system access,2026-08-07 06:59:32,2026-08-07 17:41:32,Closed,15,10.7
+38,7,Access Request,Low,VPN access,2025-12-27 19:50:15,,Open,4,
+39,59,Hardware,Medium,Keyboard/Mouse issue,2026-06-03 12:33:03,2026-06-04 05:51:03,Resolved,9,17.3
+40,39,Network,Critical,WiFi issue,2026-04-21 20:40:01,2026-04-22 00:16:01,Closed,15,3.6
+41,33,Access Request,High,VPN access,2025-12-13 08:25:55,2025-12-13 09:25:55,Closed,12,1
+42,56,Access Request,Medium,Password reset,2026-05-11 06:52:14,2026-05-12 05:16:14,Resolved,13,22.4
+43,34,Access Request,Medium,Account locked,2025-12-08 15:49:10,,Open,5,
+44,16,Network,Low,LAN port down,2025-03-04 14:04:35,,In Progress,4,
+45,25,Security,Low,Malware detected,2025-02-19 21:18:45,2025-02-20 06:18:45,Resolved,6,9.0
+46,35,Access Request,Medium,Password reset,2025-11-23 08:02:34,2025-11-23 09:38:34,Resolved,13,1.6
+47,38,Security,Low,Antivirus alert,2025-10-23 10:48:58,2025-10-29 09:30:58,Resolved,6,142.7
+48,20,Access Request,High,Permission change,2026-02-23 01:09:30,2026-02-24 17:33:30,Closed,9,40.4
+49,52,Email,High,Outlook crash,2025-06-20 10:18:56,2025-06-21 06:06:56,Resolved,8,19.8
+50,2,Access Request,Low,Permission change,2026-07-17 11:43:09,,In Progress,8,
+51,59,Software,Critical,Software bug,2025-01-21 22:41:27,2025-01-22 00:11:27,Closed,10,1.5
+52,37,Security,Low,Data breach report,2025-04-16 09:37:18,2025-04-16 14:31:18,Closed,3,4.9
+53,4,Network,Medium,VPN not connecting,2025-12-20 04:12:35,2025-12-21 07:54:35,Resolved,13,27.7
+54,57,Access Request,Low,Permission change,2025-07-15 22:40:55,2025-07-17 02:28:55,Closed,8,27.8
+55,2,Security,Medium,Suspicious login,2025-06-24 03:48:14,2025-06-24 06:54:14,Resolved,13,3.1
+56,42,Hardware,High,Printer issue,2025-06-04 20:21:08,2025-06-05 04:33:08,Closed,10,8.2
+57,10,Software,Low,Application crash,2026-03-15 01:09:17,2026-03-15 02:51:17,Closed,8,1.7
+58,45,Network,High,VPN not connecting,2026-04-16 14:39:30,2026-04-17 19:27:30,Resolved,12,28.8
+59,46,Hardware,High,Printer issue,2025-08-30 14:11:08,,In Progress,1,
+60,60,Network,Medium,WiFi issue,2025-11-05 02:10:28,2025-11-05 09:22:28,Closed,4,7.2
+61,5,Email,Medium,Mailbox full,2025-03-21 03:34:40,2025-03-22 05:40:40,Resolved,5,26.1
+62,55,Security,Medium,Phishing report,2026-03-16 13:44:50,2026-03-16 22:44:50,Closed,6,9.0
+63,35,Access Request,Medium,New system access,2026-01-28 23:47:33,2026-01-29 17:23:33,Resolved,1,17.6
+64,55,Access Request,High,New system access,2025-12-03 17:27:42,,Reopened,11,
+65,58,Access Request,High,Permission change,2025-05-17 19:25:51,2025-05-18 04:55:51,Closed,11,9.5
+66,18,Email,High,Email delivery failure,2026-08-25 16:21:47,2026-08-25 18:51:47,Resolved,7,2.5
+67,53,Security,Medium,Suspicious login,2025-07-10 16:21:41,2025-07-14 04:09:41,Closed,2,83.8
+68,18,Access Request,Low,Permission change,2026-03-19 14:46:02,2026-03-22 14:22:02,Resolved,7,71.6
+69,22,Hardware,Medium,Monitor not working,2025-05-22 05:44:26,2025-05-25 01:02:26,Resolved,6,67.3
+70,52,Network,Low,LAN port down,2026-06-29 15:00:44,2026-07-04 03:06:44,Closed,9,108.1
+71,1,Email,Critical,Email not syncing,2025-07-07 11:12:10,2025-07-07 14:48:10,Closed,8,3.6
+72,36,Software,Medium,Update failure,2025-12-15 02:34:44,2025-12-17 15:46:44,Closed,2,61.2
+73,19,Software,Medium,License issue,2025-08-26 20:05:38,2025-08-26 22:17:38,Resolved,6,2.2
+74,31,Email,Medium,Outlook crash,2026-08-03 09:14:39,2026-08-03 14:26:39,Resolved,6,5.2
+75,45,Access Request,Low,Account locked,2025-06-29 01:32:26,,In Progress,4,
+76,21,Hardware,High,Printer issue,2025-05-29 18:34:57,,In Progress,8,
+77,18,Security,Medium,Antivirus alert,2026-04-09 12:59:08,2026-04-09 14:05:08,Resolved,2,1.1
+78,54,Software,Low,Installation request,2025-05-20 09:01:58,2025-05-21 03:55:58,Resolved,12,18.9
+79,35,Software,Low,Application crash,2026-03-06 19:21:31,2026-03-07 18:57:31,Resolved,3,23.6
+80,41,Access Request,Low,New system access,2026-03-22 21:19:57,2026-03-23 12:31:57,Resolved,8,15.2
+81,29,Network,Low,No internet access,2025-07-16 02:32:17,2025-07-19 15:14:17,Closed,8,84.7
+82,8,Hardware,Medium,Laptop not booting,2026-03-25 04:27:14,2026-03-25 15:03:14,Resolved,1,10.6
+83,10,Software,High,Installation request,2025-03-08 03:53:13,,Reopened,2,
+84,36,Access Request,Medium,VPN access,2025-06-25 07:06:47,2025-06-25 15:00:47,Closed,7,7.9
+85,29,Access Request,Low,VPN access,2025-11-30 01:58:03,2025-12-01 15:34:03,Resolved,10,37.6
+86,4,Email,Critical,Email not syncing,2026-08-16 10:27:00,,In Progress,4,
+87,17,Security,Low,Malware detected,2025-05-16 00:07:09,2025-05-16 07:25:09,Resolved,3,7.3
+88,1,Access Request,Medium,VPN access,2025-12-31 23:48:12,2026-01-02 14:42:12,Resolved,4,38.9
+89,19,Security,Low,Data breach report,2025-02-25 06:53:12,2025-02-25 10:35:12,Resolved,15,3.7
+90,17,Security,Medium,Malware detected,2025-11-27 05:09:53,,In Progress,4,
+91,42,Software,Critical,License issue,2025-02-25 11:10:33,,Open,13,
+92,20,Email,High,Email delivery failure,2025-08-13 04:05:28,2025-08-15 08:05:28,Resolved,8,52.0
+93,45,Network,Medium,Slow network,2026-01-24 17:28:39,2026-01-26 04:58:39,Resolved,8,35.5
+94,6,Email,Low,Outlook crash,2026-07-25 12:42:17,2026-07-25 23:18:17,Resolved,5,10.6
+95,2,Hardware,Low,Disk failure,2026-04-02 00:45:52,,Reopened,13,
+96,44,Network,Medium,VPN not connecting,2026-01-01 10:46:15,2026-01-01 11:46:15,Resolved,8,1
+97,59,Network,Low,LAN port down,2025-12-05 13:29:06,2025-12-08 22:35:06,Resolved,8,81.1
+98,6,Access Request,Low,Account locked,2025-09-07 08:57:34,2025-09-09 19:51:34,Resolved,14,58.9
+99,11,Network,Medium,WiFi issue,2025-08-12 20:46:08,2025-08-14 04:04:08,Resolved,7,31.3
+100,53,Email,Low,Email not syncing,2025-09-02 07:01:29,2025-09-05 05:49:29,Resolved,2,70.8
+101,50,Access Request,High,New system access,2026-05-26 19:40:41,2026-05-26 20:40:41,Closed,8,1
+102,27,Hardware,Low,Monitor not working,2026-04-29 14:44:11,2026-04-30 12:02:11,Closed,11,21.3
+103,29,Hardware,Low,Disk failure,2025-04-12 18:15:48,2025-04-13 00:09:48,Closed,8,5.9
+104,57,Security,Medium,Phishing report,2026-05-05 08:27:59,2026-05-07 08:09:59,Resolved,4,47.7
+105,46,Software,Low,Application crash,2026-03-05 22:42:44,2026-03-07 21:36:44,Resolved,4,46.9
+106,54,Hardware,Medium,Laptop not booting,2026-05-19 02:11:01,2026-05-19 11:47:01,Closed,8,9.6
+107,60,Security,Low,Suspicious login,2025-11-19 17:18:04,2025-11-19 20:30:04,Closed,8,3.2
+108,16,Access Request,Medium,Permission change,2025-05-29 01:14:05,2025-05-29 10:08:05,Closed,9,8.9
+109,48,Software,High,Installation request,2026-08-24 03:42:30,2026-08-24 08:24:30,Closed,7,4.7
+110,22,Email,Low,Email not syncing,2025-08-08 16:30:02,2025-08-11 07:18:02,Closed,14,62.8
+111,38,Email,Critical,Outlook crash,2025-04-26 10:01:09,2025-04-26 14:07:09,Resolved,8,4.1
+112,23,Network,Medium,LAN port down,2025-10-20 23:42:18,2025-10-23 04:06:18,Resolved,6,52.4
+113,56,Software,Critical,License issue,2026-03-21 03:04:50,2026-03-21 05:40:50,Resolved,14,2.6
+114,50,Access Request,Low,Permission change,2026-07-02 18:24:01,2026-07-03 00:30:01,Closed,7,6.1
+115,25,Security,High,Malware detected,2026-01-20 17:35:42,,Reopened,3,
+116,33,Email,Low,Email not syncing,2025-12-08 23:54:09,,Open,15,
+117,30,Hardware,High,Keyboard/Mouse issue,2026-05-24 14:00:30,,Reopened,2,
+118,31,Network,Low,WiFi issue,2026-05-20 17:49:59,,Open,6,
+119,55,Security,High,Data breach report,2025-09-03 22:59:30,2025-09-04 13:59:30,Resolved,15,15.0
+120,49,Access Request,High,New system access,2026-04-25 14:16:43,,Open,11,
+121,44,Network,Critical,No internet access,2025-12-04 01:48:52,,Reopened,13,
+122,41,Security,High,Data breach report,2025-05-10 05:15:51,2025-05-10 22:27:51,Resolved,15,17.2
+123,2,Hardware,Low,Laptop not booting,2025-08-16 20:46:18,2025-08-18 12:16:18,Resolved,7,39.5
+124,10,Software,Medium,Software bug,2026-06-14 13:40:48,2026-06-16 01:04:48,Closed,3,35.4
+125,12,Hardware,Medium,Keyboard/Mouse issue,2026-04-27 08:14:18,2026-04-28 00:32:18,Resolved,8,16.3
+126,59,Email,Low,Outlook crash,2026-05-11 11:24:15,2026-05-12 22:54:15,Resolved,5,35.5
+127,43,Hardware,High,Keyboard/Mouse issue,2025-08-12 09:50:34,2025-08-12 16:32:34,Resolved,3,6.7
+128,5,Access Request,Critical,VPN access,2025-08-21 08:38:21,2025-08-21 09:38:21,Resolved,7,1
+129,45,Network,Medium,Slow network,2025-06-04 17:40:26,,Reopened,14,
+130,31,Hardware,Low,Disk failure,2025-10-06 19:29:01,2025-10-07 00:59:01,Resolved,12,5.5
+131,19,Hardware,Critical,Keyboard/Mouse issue,2025-08-02 04:41:06,,Open,14,
+132,44,Security,Critical,Antivirus alert,2026-08-02 19:00:56,2026-08-02 20:00:56,Resolved,15,1
+133,58,Network,High,VPN not connecting,2026-04-17 12:30:42,2026-04-18 00:36:42,Closed,4,12.1
+134,41,Software,Medium,License issue,2026-05-03 23:23:36,,Open,11,
+135,42,Hardware,Low,Keyboard/Mouse issue,2025-01-26 21:57:35,2025-01-27 16:03:35,Resolved,12,18.1
+136,9,Hardware,Critical,Monitor not working,2026-08-04 14:03:11,2026-08-04 16:51:11,Resolved,4,2.8
+137,9,Email,High,Spam issue,2026-02-17 07:48:19,2026-02-18 12:24:19,Resolved,5,28.6
+138,54,Software,Low,Update failure,2025-08-18 05:50:07,2025-08-18 19:38:07,Closed,6,13.8
+139,52,Hardware,Medium,Laptop not booting,2025-04-20 07:54:03,2025-04-20 20:36:03,Closed,4,12.7
+140,56,Security,High,Data breach report,2026-03-09 21:03:36,2026-03-10 13:57:36,Resolved,13,16.9
+141,26,Hardware,Low,Laptop not booting,2025-12-20 05:49:33,2025-12-20 18:19:33,Resolved,12,12.5
+142,44,Network,Medium,Slow network,2025-03-26 03:43:03,2025-03-26 05:37:03,Resolved,8,1.9
+143,2,Email,High,Email delivery failure,2025-09-12 18:28:48,2025-09-12 22:34:48,Closed,4,4.1
+144,42,Hardware,Medium,Keyboard/Mouse issue,2026-06-29 13:01:32,2026-06-29 17:13:32,Resolved,7,4.2
+145,8,Software,Low,Application crash,2025-08-25 09:46:01,,Reopened,2,
+146,7,Software,High,License issue,2025-10-29 20:53:00,2025-10-31 04:47:00,Resolved,11,31.9
+147,48,Security,Critical,Data breach report,2026-04-02 04:49:03,2026-04-02 11:25:03,Closed,3,6.6
+148,57,Access Request,Medium,Permission change,2026-04-24 04:35:20,2026-04-25 04:41:20,Resolved,5,24.1
+149,3,Security,Medium,Data breach report,2025-12-12 09:43:53,,Reopened,14,
+150,24,Hardware,Critical,Monitor not working,2026-02-27 21:34:45,2026-02-28 05:46:45,Closed,11,8.2
+151,23,Hardware,Medium,Printer issue,2025-04-05 21:13:19,2025-04-07 12:19:19,Closed,14,39.1
+152,30,Hardware,Medium,Disk failure,2025-01-17 14:07:54,,Open,6,
+153,16,Software,High,License issue,2025-02-23 06:59:09,2025-02-23 09:29:09,Closed,9,2.5
+154,14,Email,Low,Mailbox full,2025-09-13 04:47:38,2025-09-17 15:53:38,Closed,13,107.1
+155,58,Email,Low,Mailbox full,2025-04-11 23:13:44,2025-04-13 12:25:44,Resolved,13,37.2
+156,12,Hardware,Medium,Laptop not booting,2025-04-13 08:59:25,,Open,13,
+157,51,Software,Medium,Application crash,2025-05-16 08:11:04,2025-05-17 23:41:04,Resolved,3,39.5
+158,48,Access Request,Medium,New system access,2026-01-05 21:52:05,2026-01-08 04:10:05,Resolved,6,54.3
+159,33,Email,Low,Email delivery failure,2025-06-22 01:59:12,2025-06-22 20:23:12,Closed,1,18.4
+160,47,Security,Medium,Data breach report,2026-05-15 16:44:22,,Reopened,1,
+161,31,Access Request,Medium,New system access,2026-01-16 19:16:25,2026-01-16 22:04:25,Closed,8,2.8
+162,5,Hardware,Low,Printer issue,2025-02-21 00:24:20,,In Progress,10,
+163,41,Email,Medium,Spam issue,2025-10-23 20:34:21,,Reopened,9,
+164,19,Access Request,Medium,Permission change,2025-03-19 00:49:13,2025-03-19 07:01:13,Closed,2,6.2
+165,55,Security,Medium,Antivirus alert,2026-07-14 21:25:47,2026-07-15 10:49:47,Closed,7,13.4
+166,29,Software,Medium,Update failure,2025-11-06 16:52:09,2025-11-08 09:46:09,Resolved,2,40.9
+167,21,Access Request,Low,Account locked,2025-10-18 17:28:36,,Reopened,11,
+168,60,Access Request,Low,New system access,2025-03-14 09:56:06,2025-03-18 08:32:06,Resolved,12,94.6
+169,48,Network,High,LAN port down,2025-02-16 14:07:35,2025-02-16 15:07:35,Resolved,9,1
+170,36,Network,Medium,WiFi issue,2025-10-02 15:32:45,2025-10-03 08:44:45,Closed,13,17.2
+171,28,Security,Low,Suspicious login,2026-04-12 08:27:19,2026-04-13 10:21:19,Resolved,2,25.9
+172,37,Email,Low,Outlook crash,2025-06-24 04:13:38,2025-06-24 16:19:38,Closed,6,12.1
+173,55,Email,Medium,Spam issue,2026-03-22 21:59:59,,In Progress,7,
+174,55,Email,Critical,Email delivery failure,2026-04-22 13:50:05,2026-04-22 14:50:05,Resolved,9,1
+175,2,Email,Critical,Spam issue,2025-01-23 11:43:35,,In Progress,12,
+176,49,Network,Critical,Slow network,2025-01-05 17:49:12,,In Progress,3,
+177,37,Security,Medium,Malware detected,2026-07-30 12:39:51,2026-07-30 22:33:51,Resolved,1,9.9
+178,6,Security,Medium,Data breach report,2025-11-23 02:14:41,2025-11-25 22:56:41,Resolved,3,68.7
+179,24,Network,High,LAN port down,2026-04-09 02:25:00,,Open,1,
+180,10,Software,High,Application crash,2026-06-08 11:41:14,,Open,8,
+181,43,Access Request,Medium,Permission change,2025-11-18 16:56:40,2025-11-19 02:20:40,Resolved,13,9.4
+182,33,Hardware,Low,Laptop not booting,2025-08-09 00:05:48,2025-08-10 11:11:48,Resolved,10,35.1
+183,32,Email,Medium,Email not syncing,2025-06-21 06:45:41,2025-06-22 11:51:41,Resolved,10,29.1
+184,4,Hardware,Low,Printer issue,2026-08-20 00:25:55,,In Progress,5,
+185,19,Network,Low,WiFi issue,2026-08-04 05:21:09,2026-08-05 03:03:09,Resolved,3,21.7
+186,25,Email,High,Email delivery failure,2026-03-10 23:21:43,2026-03-12 18:09:43,Closed,13,42.8
+187,23,Hardware,Medium,Laptop not booting,2025-12-05 19:43:21,,Open,15,
+188,5,Network,Medium,LAN port down,2025-11-11 02:59:20,2025-11-14 09:47:20,Closed,7,78.8
+189,19,Hardware,Medium,Monitor not working,2025-05-14 11:56:53,2025-05-14 18:56:53,Closed,10,7.0
+190,30,Security,Critical,Phishing report,2025-12-06 04:53:51,2025-12-06 07:41:51,Closed,4,2.8
+191,28,Email,Medium,Email not syncing,2025-11-04 09:37:33,2025-11-04 18:13:33,Closed,12,8.6
+192,22,Software,Low,License issue,2025-03-01 07:48:53,2025-03-01 23:54:53,Resolved,2,16.1
+193,34,Email,Low,Spam issue,2025-09-30 16:58:24,2025-09-30 18:46:24,Closed,14,1.8
+194,42,Software,Low,License issue,2025-07-18 19:35:36,,In Progress,10,
+195,10,Security,Low,Data breach report,2025-12-27 08:42:43,2025-12-29 05:48:43,Closed,13,45.1
+196,38,Access Request,Medium,VPN access,2026-05-15 10:14:11,2026-05-16 03:02:11,Resolved,10,16.8
+197,21,Security,Low,Data breach report,2025-02-23 00:56:53,2025-02-23 03:26:53,Resolved,11,2.5
+198,20,Network,Medium,Slow network,2026-01-30 01:26:42,,Open,8,
+199,29,Hardware,Low,Monitor not working,2025-03-01 14:22:10,2025-03-02 06:04:10,Resolved,14,15.7
+200,6,Email,Medium,Outlook crash,2025-12-26 09:34:13,2025-12-28 18:52:13,Resolved,13,57.3
