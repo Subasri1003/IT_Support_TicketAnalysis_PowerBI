@@ -86,9 +86,11 @@ Interactive Dashboard
 
 ### Tickets & IssueType
 
+![Tickets & Issue_Type](Ticket&Engineer.jpg)
+
 ### Support Enginner
 
-![Support Engineer Performance](Support Engineer.jpg)
+![Support Engineer Performance](Support_Engineer.jpg)
 
 ### IT Support Overview
 
