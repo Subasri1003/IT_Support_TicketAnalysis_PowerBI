@@ -86,7 +86,7 @@ Interactive Dashboard
 
 ### Tickets & IssueType
 
-![Tickets & Issue_Type](Ticket&Engineer.jpg)
+![Tickets & Issue_Type](Ticket_Engineer.jpg)
 
 ### Support Enginner
 
